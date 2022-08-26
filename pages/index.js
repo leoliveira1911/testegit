@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <h1>Olá mundo</h1>
+      <h1>Alteração para branch staging</h1>
     </div>
   )
 }
